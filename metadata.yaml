@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '336'
     url: http://www.gutenberg.org/2009/agents/336
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14498#A-Handbook-to-the-Works-of-Browning--6th-ed.-
 gutenberg_issued: '2004-12-28'
 gutenberg_type: Text
 identifiers:
