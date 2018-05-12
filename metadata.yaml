@@ -1,0 +1,30 @@
+_repo: A-Handbook-to-the-Works-of-Browning--6th-ed.-_14498
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Orr, Sutherland, Mrs.
+    aliases:
+    - Orr, Mrs. Sutherland
+    - Orr, Alexandra Leighton
+    birthdate: 1828
+    deathdate: 1903
+    gutenberg_agent_id: '336'
+    url: http://www.gutenberg.org/2009/agents/336
+description: ''
+gutenberg_issued: '2004-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Browning, Robert, 1812-1889 -- Bibliography'
+- !lcsh 'Browning, Robert, 1812-1889 -- Handbooks, manuals, etc.'
+- !lcc 'PR'
+title: A Handbook to the Works of Browning (6th ed.)
+url: http://www.gutenberg.org/ebooks/14498
